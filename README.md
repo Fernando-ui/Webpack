@@ -16,3 +16,12 @@ Con este podemos acceder al webpack.config.js para tener ya las configutaciones 
 * Webpack - Modo Development
 * Webpack - Modo Production
 * Node - Visualización en vivo de los cambios
+ 
+### Instalaciones
+Se instalo npm
+
+`npm install`
+
+y para construir el build 
+
+`npm run build`
