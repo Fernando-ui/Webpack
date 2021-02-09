@@ -18,7 +18,7 @@ Con este podemos acceder al webpack.config.js para tener ya las configutaciones 
 * Node - Visualización en vivo de los cambios
  
 ### Instalaciones
-Se instalo npm
+Reconstruir los modulos de node
 
 `npm install`
 
